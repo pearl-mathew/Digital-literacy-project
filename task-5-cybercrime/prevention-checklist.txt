@@ -1,0 +1,13 @@
+Stay Safe Online — Checklist (for college students in India)
+* [ ] Turn on 2-factor authentication (2FA) for email, Instagram, WhatsApp, and cloud accounts.
+* [ ] Use strong, unique passwords (12+ characters) and a password manager. Never reuse the same password.
+* [ ] Keep devices updated: install OS/app updates and antivirus. Update browsers and payment apps regularly.
+* [ ] Avoid suspicious links and QR codes from SMS, WhatsApp, Telegram, or “job/internship” messages. Verify the sender first.
+* [ ] Check website/app authenticity: download apps only from official stores, and verify the URL before logging in (watch for lookalike domains).
+* [ ] Lock down privacy settings: limit who can see your phone number, location, and stories. Remove unknown followers.
+* [ ] Use safe WiFi habits: avoid UPI/banking on public WiFi. If needed, use mobile data or a trusted VPN.
+* [ ] UPI safety tip 1: Never enter your UPI PIN to “receive” money. UPI PIN is only for sending money or approving a debit.
+* [ ] UPI safety tip 2: Reject “Collect/Request money” prompts unless you personally initiated the payment and trust the request.
+* [ ] Double-check transactions: confirm the payee name, UPI ID, and amount before approving. Turn on bank SMS/app alerts.
+If you’re scammed or suspect fraud: report immediately on the National Cyber Crime Portal: https://cybercrime.gov.in/ and call Helpline 1930 (as soon as possible).
+
