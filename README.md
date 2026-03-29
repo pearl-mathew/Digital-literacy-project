@@ -23,9 +23,17 @@ A professional digital presence is no longer optional — it is expected. In thi
 ---
 
 ## 🛠️ Task 3: Coding Practice & Cloud Collaboration
-To guide my peers toward the right online tools for studying and practicing, I have focused on mastering algorithmic thinking and language proficiency:
+As a Digital Ambassador, I guide my peers toward the right online tools for studying, practicing, and collaborating.
+
+### **Part A: Coding Practice**
 * **Platform:** HackerRank
-* **Use Case:** Refining problem-solving skills and mastering **Python** fundamentals through targeted coding challenges.
+* **Objective:** Strengthening algorithmic thinking and language proficiency.
+* **Outcome:** Mastered foundational **Python** concepts through targeted technical challenges to build a competitive coding profile.
+
+### **Part B: Cloud Collaboration & Data Collection**
+* **Platform:** Google Forms
+* **Objective:** Creating a streamlined digital tool for peer-to-peer data collection and collaboration.
+* **Resource Link:** [View my Google Form Here](https://docs.google.com/forms/d/e/1FAIpQLSc4qkUhPa5sphqq9-Fs9uaQ-szYIFt75R76eLnK_4C_zUfF-g/viewform?usp=dialog)
 
 ---
 
